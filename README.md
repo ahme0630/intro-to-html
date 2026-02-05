@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Shuhd Ahmed</title>
 </head>
 <body>
@@ -44,5 +44,3 @@ abilities through practice and projects </p>
  <p>&copy; 2026 Shuhd Ahmed</p>
 </footer>
 
-</body>
-</html>. 
